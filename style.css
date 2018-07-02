@@ -1,0 +1,11 @@
+button.game-button {
+    border-width: 5px;
+    border-radius: 5px;
+    width: 30%;
+    border-color: black;
+
+}
+
+button.game-button:hover {
+    background: #eee;
+}
